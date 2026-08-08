@@ -1,5 +1,7 @@
 # holdem-rsources
 
+> **Archived.** This repository is a frozen public snapshot. Active development continues elsewhere.
+
 A high-performance Texas Hold'em poker library written in Rust.
 
 ## Features
@@ -20,4 +22,4 @@ cargo test
 cargo bench
 ```
 
-Bench comparison per commit is available via GitHub Actions [here](https://damssifma.github.io/holdem-rsources/dev/bench/)
+Bench comparison per commit is available via GitHub Actions [here](https://damssifma.github.io/holdem-rsources-archive/dev/bench/)
